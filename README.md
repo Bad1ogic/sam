@@ -2,7 +2,7 @@
 This is a lightweight Python script for scanning video files for frame-level corruption using FFmpeg. It detects frame decode errors, stream issues with full support for GPU acceleration
 
 
-Features
+# Features
 
 Scans only using FFmpeg/FFprobe
 
@@ -13,7 +13,7 @@ Live progress bar based on actual video time
 No dependencies beyond Python and FFmpeg
 
 
-Requirements
+# Requirements
 
 Python 3.x (portable version supported)
 
